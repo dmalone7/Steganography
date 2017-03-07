@@ -1,0 +1,17 @@
+build/
+nbuild/
+dist/
+nbdist/
+nbproject/
+.nb-gradle/
+
+*.xml
+
+*.so
+*.log
+*.out
+*~
+*.swp
+*.DS_Store
+*.lock
+*.mf
